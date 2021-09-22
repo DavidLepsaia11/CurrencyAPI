@@ -127,17 +127,26 @@ namespace CurrencyTypes.Controllers
             DateTime Today = DateTime.Today.AddDays(1);
             int Hour = DateTime.Now.Hour;
 
-            if (Hour >= 17)
+            try
             {
-                foreach (var currency in selectedCurrency)
+                if (Hour >= 15)
                 {
-                    bridge.SetCurrencyRate(currency.Key, Today, Convert.ToDouble(currency.Value));
+                foreach (var currency in selectedCurrency)
+                {                               
+                    bridge.SetCurrencyRate(currency.Key, Today, Convert.ToDouble(currency.Value));                 
                 }
+                    SAPbouiCOM.Framework.Application.SBO_Application.MessageBox("ვალუტის კურსი განახლდა");
+                }
+                else
+                {
+                    SAPbouiCOM.Framework.Application.SBO_Application.MessageBox("17:00 საათამდე არ განახლდება კურსი");
+                }        
             }
-            else
+            catch (Exception e)
             {
-                SAPbouiCOM.Framework.Application.SBO_Application.MessageBox("17:00 საათამდე არ განახლდება კურსი");
+                SAPbouiCOM.Framework.Application.SBO_Application.MessageBox("კურსი უკვე  განახლებულია ");
             }
+
         }
         private IEnumerable<KeyValuePair<string, string>> FindCurrency()
         {
