@@ -1,0 +1,31 @@
+c:\users\dlepsaia\documents\visual studio 2015\Projects\CurrencyTypes\CurrencyTypes\bin\Debug\CurrencyTypes.exe
+c:\users\dlepsaia\documents\visual studio 2015\Projects\CurrencyTypes\CurrencyTypes\bin\Debug\CurrencyTypes.pdb
+c:\users\dlepsaia\documents\visual studio 2015\Projects\CurrencyTypes\CurrencyTypes\bin\Debug\Newtonsoft.Json.dll
+c:\users\dlepsaia\documents\visual studio 2015\Projects\CurrencyTypes\CurrencyTypes\bin\Debug\SAPBusinessOneSDK.dll
+c:\users\dlepsaia\documents\visual studio 2015\Projects\CurrencyTypes\CurrencyTypes\bin\Debug\Newtonsoft.Json.xml
+c:\users\dlepsaia\documents\visual studio 2015\Projects\CurrencyTypes\CurrencyTypes\obj\Debug\CurrencyTypes.exe
+c:\users\dlepsaia\documents\visual studio 2015\Projects\CurrencyTypes\CurrencyTypes\obj\Debug\CurrencyTypes.pdb
+C:\Users\dlepsaia\documents\visual studio 2015\Projects\CurrencyTypes\CurrencyTypes\obj\Debug\CurrencyTypes.csprojResolveAssemblyReference.cache
+C:\Users\nbodaveli\Desktop\APICurrency\CurrencyTypes\obj\Debug\CurrencyTypes.exe
+C:\Users\nbodaveli\Desktop\APICurrency\CurrencyTypes\obj\Debug\CurrencyTypes.pdb
+C:\Users\nbodaveli\Desktop\APICurrency\CurrencyTypes\bin\Debug\CurrencyTypes.exe
+C:\Users\nbodaveli\Desktop\APICurrency\CurrencyTypes\bin\Debug\CurrencyTypes.pdb
+C:\Users\nbodaveli\Desktop\APICurrency\CurrencyTypes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nbodaveli\Desktop\APICurrency\CurrencyTypes\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\nbodaveli\Desktop\APICurrency\CurrencyTypes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nbodaveli\Desktop\APICurrency\CurrencyTypes\obj\Debug\CurrencyTypes.csprojResolveAssemblyReference.cache
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\obj\Debug\CurrencyTypes.exe
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\obj\Debug\CurrencyTypes.pdb
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\CurrencyTypes.exe
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\CurrencyTypes.pdb
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\CurrencyTypes.exe.config
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\Antlr3.Runtime.dll
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\ConverterLib_x64.dll
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\RSM.Core.dll
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\RSM.Core.SDK.DI.dll
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\RSM.Core.SDK.dll
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\bin\Debug\RSM.Core.SDK.UI.dll
+C:\Users\dlepsaia\Desktop\CURRENCY-API\CurrencyTypes\obj\Debug\CurrencyTypes.csprojResolveAssemblyReference.cache
