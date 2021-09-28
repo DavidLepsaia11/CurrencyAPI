@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddOnRegData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SlientInstallation="No" SlientUpgrade="No" Partnernmsp="RSM" SchemaVersion="3.0" Type="" MultipleVersion="false" OnDemand="" OnPremise="" ExtName="CurrencyTypes" ExtVersion="1.0.3" Contdata="" Partner="RSM" DBType="MSSQL" ClientType="A">
+  <Validity>
+    <SBOCompatibility>
+      <Version From="" To="" />
+    </SBOCompatibility>
+  </Validity>
+  <Configuration>
+    <Repository>
+      <Properties />
+    </Repository>
+    <Deployment>
+      <Properties />
+    </Deployment>
+    <Assignment>
+      <Properties />
+    </Assignment>
+  </Configuration>
+  <Addons>
+    <Addon Name="" Group="" ForceFlag="" Visible="" AutoAssign="" SelfUpgrd="">
+      <x86 AddonExe="" AddonSig="">
+        <Installation>
+          <Files />
+        </Installation>
+        <Uninstallation>
+          <Files />
+        </Uninstallation>
+      </x86>
+      <x64 AddonExe="C:\Users\dlepsaia\Desktop\CurrencyAPI\CurrencyTypes\bin\Debug\CurrencyTypes.exe" AddonSig="">
+        <Installation>
+          <Files>
+            <File FileName="Antlr3.Runtime.dll">
+              <Actions />
+            </File>
+            <File FileName="ConverterLib_x64.dll">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.b1s">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.exe">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.exe.config">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.pdb">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="RSM.Core.dll">
+              <Actions />
+            </File>
+            <File FileName="RSM.Core.SDK.DI.dll">
+              <Actions />
+            </File>
+            <File FileName="RSM.Core.SDK.dll">
+              <Actions />
+            </File>
+            <File FileName="RSM.Core.SDK.UI.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Installation>
+        <Uninstallation>
+          <Files>
+            <File FileName="Antlr3.Runtime.dll">
+              <Actions />
+            </File>
+            <File FileName="ConverterLib_x64.dll">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.b1s">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.exe">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.exe.config">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.pdb">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.vshost.exe">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.vshost.exe.config">
+              <Actions />
+            </File>
+            <File FileName="CurrencyTypes.vshost.exe.manifest">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.dll">
+              <Actions />
+            </File>
+            <File FileName="Newtonsoft.Json.xml">
+              <Actions />
+            </File>
+            <File FileName="RSM.Core.dll">
+              <Actions />
+            </File>
+            <File FileName="RSM.Core.SDK.DI.dll">
+              <Actions />
+            </File>
+            <File FileName="RSM.Core.SDK.dll">
+              <Actions />
+            </File>
+            <File FileName="RSM.Core.SDK.UI.dll">
+              <Actions />
+            </File>
+            <File FileName="SAPBusinessOneSDK.dll">
+              <Actions />
+            </File>
+          </Files>
+        </Uninstallation>
+      </x64>
+    </Addon>
+  </Addons>
+  <XApps>
+    <XApp Name="" Path="" FileName="" />
+  </XApps>
+  <UDQs>
+    <UDQ udqname="">
+      <Hana FileName="" />
+    </UDQ>
+  </UDQs>
+</AddOnRegData>

@@ -55,6 +55,7 @@ namespace CurrencyTypes
             {
                currencyController.FillGrid();
                 Iseven_Button0_PressedAfterExecute = true;
+                Button0.Item.Enabled = false;
             }
         }
 
