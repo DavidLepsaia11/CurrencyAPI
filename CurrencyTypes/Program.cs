@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using SAPbouiCOM.Framework;
+using CurrencyTypes.Services;
+using RSM.Core.SDK.DI;
 
 namespace CurrencyTypes
 {
@@ -27,6 +29,8 @@ namespace CurrencyTypes
                 MyMenu.AddMenuItems();
                 oApp.RegisterMenuEventHandler(MyMenu.SBO_Application_MenuEvent);
                 Application.SBO_Application.AppEvent += new SAPbouiCOM._IApplicationEvents_AppEventEventHandler(SBO_Application_AppEvent);
+                CurrencySetupService currencySetup = new CurrencySetupService();
+                currencySetup.FillRate();
                 oApp.Run();
             }
             catch (Exception ex)

@@ -77,6 +77,7 @@
     <Compile Include="Controllers\BaseFormController.cs" />
     <Compile Include="Controllers\CurrencyFormController.cs" />
     <Compile Include="Services\CurrencyService.cs" />
+    <Compile Include="Services\CurrencySetupService.cs" />
     <None Include="app.config" />
     <None Include="Forms\CurrencyTypes.b1f">
       <FormCategory>UserForm</FormCategory>

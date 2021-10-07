@@ -24,9 +24,7 @@ namespace CurrencyTypes.Controllers
         public CurrencyFormController(SAPbobsCOM.Company Company, IForm Form) : base(Company, Form) 
         {      
             grid = ((Grid)(Form.Items.Item("Item_0").Specific));
-
-            bridge = (SBObob)Company.GetBusinessObject(BoObjectTypes.BoBridge);
-            
+            bridge = (SBObob)Company.GetBusinessObject(BoObjectTypes.BoBridge);           
             currencyService = new CurrencyService();      
             rs = (Recordset)Company.GetBusinessObject(BoObjectTypes.BoRecordset);
         }
